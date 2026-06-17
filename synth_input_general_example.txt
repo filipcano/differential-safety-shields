@@ -1,0 +1,8 @@
+4
+optimized-iterative
+80 80
+8 8
+2
+75
+4 5 7 8
+strategy_general_example.bin

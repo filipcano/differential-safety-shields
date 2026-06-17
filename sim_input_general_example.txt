@@ -1,0 +1,13 @@
+4
+0 0
+80 80
+8 8
+2
+75
+4 5 7 8
+strategy_general_example.bin
+3
+200
+traces_general_example.csv
+123456789
+x_target_speed softmax 10 10
